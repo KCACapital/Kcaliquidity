@@ -1,0 +1,10 @@
+
+body { font-family: Arial, sans-serif; background:#070b13; color:#e6e9ef; margin:0; padding:0; }
+.container { max-width: 900px; margin:0 auto; padding:20px; }
+h1 { color:#d4af37; }
+h2 { color:#00d4ff; }
+.card { background:#0e1624; padding:20px; border-radius:10px; margin-bottom:20px; }
+.btn { display:inline-block; margin:6px 6px 0 0; padding:10px 14px; border-radius:6px; font-weight:bold; text-decoration:none; }
+.btn.gold { background:#d4af37; color:#000; }
+.btn.blue { background:#00d4ff; color:#000; }
+.footer { margin-top:40px; font-size:12px; color:#aaa; text-align:center; }
